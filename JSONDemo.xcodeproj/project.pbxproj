@@ -36,6 +36,7 @@
 		C2FBF8C61A6EA70500968364 /* JSONDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JSONDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2FBF8CB1A6EA70500968364 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C2FBF8CC1A6EA70500968364 /* JSONDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONDemoTests.swift; sourceTree = "<group>"; };
+		C2FBF8D61A6EA77600968364 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		C2FBF8A81A6EA70500968364 = {
 			isa = PBXGroup;
 			children = (
+				C2FBF8D61A6EA77600968364 /* README.md */,
 				C2FBF8B31A6EA70500968364 /* JSONDemo */,
 				C2FBF8C91A6EA70500968364 /* JSONDemoTests */,
 				C2FBF8B21A6EA70500968364 /* Products */,
