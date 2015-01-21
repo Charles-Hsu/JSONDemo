@@ -1,8 +1,11 @@
 # JSONDemo
 
 [Working with JSON in iOS 5 Tutorial](http://www.raywenderlich.com/5492/working-with-json-in-ios-5)
+
 [新北市公車到站預估資料](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http%3A%2F%2Fdata.ntpc.gov.tw%2FNTPC%2Fod%2Fdata%2Fapi%2Fmeta%2F%3F%24format%3Djson&%24filter=oid+eq+CE74A94B-36D2-4482-A25D-670625ED0678)
+
 [新北市公車站牌資料](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http://data.ntpc.gov.tw/NTPC/od/data/api/meta/?$format=json&$filter=oid%20eq%2018621BF3-6B00-4A07-B49C-0C5CCABFE026)
+
 [How to use background thread in swift?](http://stackoverflow.com/questions/24056205/how-to-use-background-thread-in-swift)
 
 
@@ -69,9 +72,9 @@ Press Alt+R to run the code, you will see the test result. After we fetch the co
 
 # Reference
 
-Swift : Loading image from URL (http://stackoverflow.com/questions/24231680/swift-loading-image-from-url)
-
-Downloading and parsing json in swift (http://stackoverflow.com/questions/24065536/downloading-and-parsing-json-in-swift)
-
-Swift dynamic cast failed with HTTP GET request(http://stackoverflow.com/questions/24956956/swift-dynamic-cast-failed-with-http-get-request)
+- Working with JSON in iOS 5 Tutorial(http://www.raywenderlich.com/5492/working-with-json-in-ios-5)
+- How to use background thread in swift?(http://stackoverflow.com/questions/24056205/how-to-use-background-thread-in-swift)
+- Swift : Loading image from URL (http://stackoverflow.com/questions/24231680/swift-loading-image-from-url)
+- Downloading and parsing json in swift (http://stackoverflow.com/questions/24065536/downloading-and-parsing-json-in-swift)
+- Swift dynamic cast failed with HTTP GET request(http://stackoverflow.com/questions/24956956/swift-dynamic-cast-failed-with-http-get-request)
 
