@@ -1,10 +1,6 @@
 # JSONDemo
 
-- [新北市公車到站預估資料](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http%3A%2F%2Fdata.ntpc.gov.tw%2FNTPC%2Fod%2Fdata%2Fapi%2Fmeta%2F%3F%24format%3Djson&%24filter=oid+eq+CE74A94B-36D2-4482-A25D-670625ED0678)
-
-- [新北市公車站牌資料](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http://data.ntpc.gov.tw/NTPC/od/data/api/meta/?$format=json&$filter=oid%20eq%2018621BF3-6B00-4A07-B49C-0C5CCABFE026)
-
-- [新北市公車路線清單](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http://data.ntpc.gov.tw/NTPC/od/data/api/meta/?$format=json&$filter=oid%20eq%205D3B5FE3-549A-40D5-8FA3-0C691230B213)
+How to read JSON data from Taipei Open Data Platfrom. Show the latest Bus location on your iPhone.
 
 # Getting Started
 
@@ -87,3 +83,7 @@ func fetchedData(var data: NSData) {
 - Downloading and parsing json in swift (http://stackoverflow.com/questions/24065536/downloading-and-parsing-json-in-swift)
 - Swift dynamic cast failed with HTTP GET request(http://stackoverflow.com/questions/24956956/swift-dynamic-cast-failed-with-http-get-request)
 - Using Swift to unescape unicode characters, ie \u1234(http://stackoverflow.com/questions/24318171/using-swift-to-unescape-unicode-characters-ie-u1234)
+- [新北市公車到站預估資料](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http%3A%2F%2Fdata.ntpc.gov.tw%2FNTPC%2Fod%2Fdata%2Fapi%2Fmeta%2F%3F%24format%3Djson&%24filter=oid+eq+CE74A94B-36D2-4482-A25D-670625ED0678)
+- [新北市公車站牌資料](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http://data.ntpc.gov.tw/NTPC/od/data/api/meta/?$format=json&$filter=oid%20eq%2018621BF3-6B00-4A07-B49C-0C5CCABFE026)
+- [新北市公車路線清單](http://data.taipei.gov.tw/opendata/apply/RelatedUrl?url=http://data.ntpc.gov.tw/NTPC/od/data/api/meta/?$format=json&$filter=oid%20eq%205D3B5FE3-549A-40D5-8FA3-0C691230B213)
+
